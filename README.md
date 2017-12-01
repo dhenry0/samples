@@ -1,2 +1,2 @@
 # samples
-Open Source Samples
+These are samples for topics listed on my resume.
